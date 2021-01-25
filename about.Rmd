@@ -14,6 +14,6 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+I am a classically trained data scientist living in the Abuja, Nigeria. 
+Currently I work on the Institute of Human Virology team in Nigeria. I love talking about baseball, 
 true crime podcasts, and causal inference.
