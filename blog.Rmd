@@ -1,8 +1,7 @@
 ---
-title: "Blog"  # any name you want here
-listing: posts # do this exactly
+title: "Blog"
+listing: posts
 ---
-
 
 I am a young Data Scientist from Nigeria. I am working on building a community of healthcare professionals who use data science to improve public health programs.  
 
