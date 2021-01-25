@@ -8,6 +8,13 @@
       "last_modified": "2021-01-25T15:23:02+01:00"
     },
     {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\nI am a young Data Scientist from Nigeria. I am working on building a community of healthcare professionals who use data science to improve public health programs.\r\nMy plans this year include to develop two R packages for public health, and create a website for healthcare professionals to learn R.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-25T15:57:37+01:00"
+    },
+    {
       "path": "index.html",
       "title": "stephen-distill",
       "description": "Welcome to the website. I hope you enjoy it!\n",
@@ -16,5 +23,5 @@
       "last_modified": "2021-01-25T15:18:12+01:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }

@@ -2,3 +2,8 @@
 title: "Blog"  # any name you want here
 listing: posts # do this exactly
 ---
+
+
+I am a young Data Scientist from Nigeria. I am working on building a community of healthcare professionals who use data science to improve public health programs.  
+
+My plans this year include to develop two R packages for public health, and create a website for healthcare professionals to learn R.
